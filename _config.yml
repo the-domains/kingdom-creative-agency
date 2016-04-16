@@ -1,6 +1,6 @@
-name: kingdom creative agency
+name: kingdom
 favicon: null
-layout_spectrum: 0.51232
+layout_spectrum: 0
 typography_spectrum: 0.48499
 title: creative agency
 cta:
@@ -23,7 +23,7 @@ color:
     - '#2f352b'
     - '#53564b'
   brandStrength: 0.0625
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []

@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/155062338'
+inLanguage: null
+starred: false
+keywords: []
+description: 'This is "Coqueterra FW16" by kingdombrands on Vimeo, the home for high quality videos and the people who love them.'
+datePublished: '2016-04-16T13:44:07.009Z'
+dateModified: '2016-04-16T13:44:01.992Z'
 author:
   - name: kingdom
     url: 'http://vimeo.com/kingdombrands'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'This is "Coqueterra FW16" by kingdombrands on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/155062338'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/155062338'
 title: Coqueterra FW16
-datePublished: '2016-04-16T13:43:11.386Z'
-dateModified: '2016-04-16T13:42:24.525Z'
 sourcePath: _posts/2016-04-16-coqueterra-fw16.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 

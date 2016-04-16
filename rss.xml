@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[kingdom creative agency]]></title>
-        <description><![CDATA[kingdom creative agency]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[kingdom]]></title>
+        <description><![CDATA[kingdom]]></description>
+        <link>https://thegrid.ai/kingdom-creative-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 13:37:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 13:43:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kingdom-creative-agency/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coqueterra FW16]]></title>
+            <description><![CDATA[<article><h1>Coqueterra FW16</h1><p>This is "Coqueterra FW16" by kingdombrands on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/231b21c86441365b22f1fe0bc893b01f5a23a7bf.jpg"></article>]]></description>
+            <link>https://vimeo.com/155062338</link>
+            <guid isPermaLink="false">75435f37-a96a-4938-8492-663a3b0b2291</guid>
+            <pubDate>Sat, 16 Apr 2016 13:43:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Somos uma agência de ideias, ou se preferir uma comunidade criativa. Fazemos trabalho relevante para marcas relevantes. </p>]]></description>
-            <link>undefinedd627e3ef-cde2-4717-b0de-114784e7c5f0/index.html</link>
+            <link>https://thegrid.ai/kingdom-creative-agency/d627e3ef-cde2-4717-b0de-114784e7c5f0/index.html</link>
             <guid isPermaLink="false">d627e3ef-cde2-4717-b0de-114784e7c5f0</guid>
             <pubDate>Sat, 16 Apr 2016 13:37:22 GMT</pubDate>
         </item>

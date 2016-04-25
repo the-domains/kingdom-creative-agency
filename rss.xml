@@ -4,8 +4,15 @@
         <description><![CDATA[creative agency]]></description>
         <link>https://thegrid.ai/kingdom-creative-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 17:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 17:47:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kingdom-creative-agency/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coqueterra FW16]]></title>
+            <description><![CDATA[<article><h1>Coqueterra FW16</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/231b21c86441365b22f1fe0bc893b01f5a23a7bf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kingdom-creative-agency/coqueterra-fw16/index.html</link>
+            <guid isPermaLink="false">75435f37-a96a-4938-8492-663a3b0b2291</guid>
+            <pubDate>Mon, 25 Apr 2016 17:46:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Somos uma agência de ideias, ou se preferir uma comunidade criativa. Fazemos trabalho relevante para marcas relevantes. </p>]]></description>
@@ -26,13 +33,6 @@
             <link>https://vimeo.com/162006461</link>
             <guid isPermaLink="false">62b3d46f-8fa2-4893-aaef-90eda19c96f3</guid>
             <pubDate>Sat, 16 Apr 2016 13:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coqueterra FW16]]></title>
-            <description><![CDATA[<article><h1>Coqueterra FW16</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/231b21c86441365b22f1fe0bc893b01f5a23a7bf.jpg"></article>]]></description>
-            <link>https://vimeo.com/155062338</link>
-            <guid isPermaLink="false">75435f37-a96a-4938-8492-663a3b0b2291</guid>
-            <pubDate>Sat, 16 Apr 2016 13:44:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

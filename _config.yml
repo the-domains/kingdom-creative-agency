@@ -1,5 +1,8 @@
+name: kingdom
+favicon: null
+layout_spectrum: 0.7914894
+typography_spectrum: 0
 title: creative agency
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0
-  lightness: 0
   brandColors:
     - '#040404'
     - '#e6ddcf'
     - '#999388'
     - '#2f352b'
     - '#53564b'
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
   rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: kingdom
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0
-layout_spectrum: 0.7914894
+purpose: []

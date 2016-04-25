@@ -1,16 +1,14 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://vimeo.com/155062338'
+hasPage: true
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'This is "Coqueterra FW16" by kingdombrands on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-04-16T13:44:07.009Z'
-dateModified: '2016-04-16T13:44:01.992Z'
+description: ''
+datePublished: '2016-04-25T17:46:37.603Z'
+dateModified: '2016-04-25T17:46:37.163Z'
 author:
-  - name: kingdom
+  - name: ''
     url: 'http://vimeo.com/kingdombrands'
     avatar: {}
 related: []
@@ -50,8 +48,12 @@ publisher:
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: true
+url: coqueterra-fw16/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+Coqueterra FW16
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F155062338&amp;url=https%3A%2F%2Fvimeo.com%2F155062338&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F555730170_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>

@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://vimeo.com/162006461'
 inLanguage: null
 starred: false
 keywords: []
-description: Pé de Chumbo AW/16 @Portugal Fashion
-datePublished: '2016-04-16T13:51:43.632Z'
-dateModified: '2016-04-16T13:51:33.336Z'
+description: ''
+datePublished: '2016-04-25T17:47:19.637Z'
+dateModified: '2016-04-16T14:04:36.761Z'
 author:
   - name: kingdom
     url: 'http://vimeo.com/kingdombrands'
@@ -41,15 +40,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: Pé de Chumbo
+title: ''
+sourcePath: _posts/2016-04-16-pe-de-chumbo.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-04-16-pe-de-chumbo.md
-published: true
+url: pe-de-chumbo/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
